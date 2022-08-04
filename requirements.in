@@ -2,4 +2,10 @@ Django
 
 pip-tools==6.8.0
 
+python-dotenv
 
+psycopg2
+
+python-decouple
+
+django-extensions

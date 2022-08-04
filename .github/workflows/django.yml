@@ -23,6 +23,6 @@ jobs:
     - name: Copiando arquivo de configuração
       run: |
           cp .env-sample .env
-#    - name: Testes de aplicação com Pytest
-#      run: |
-#        pytest
+    - name: Testes de aplicação com Pytest
+      run: |
+        pytest
